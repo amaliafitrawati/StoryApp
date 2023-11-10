@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_desc">Share your great journey here!</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="login_title">Ready to share your journey?</string>
+    <string name="login_desc">Lets login first</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="login_image">Login Image</string>
+    <string name="signup_title">Welcome, register your account first!</string>
+    <string name="username">Username</string>
+    <string name="email_alert">Please enter valid email!</string>
+    <string name="regist_success_alert">Congrats!</string>
+    <string name="regist_failed_alert">Registration failed!</string>
+    <string name="description">Description</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="desc_empty_alert">Please input description!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="location">Location</string>
+</resources>

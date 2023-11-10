@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="welcome_title">Selamat Datang!</string>
+    <string name="welcome_desc">Bagikan perjalanan hebat Anda di sini!</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="login_title">Siap berbagi perjalanan Anda?</string>
+    <string name="login_desc">Ayo login dulu</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="name">Nama</string>
+    <string name="login_image">Gambar Masuk</string>
+    <string name="signup_title">Selamat datang, daftarkan akun Anda terlebih dahulu!</string>
+    <string name="username">Username</string>
+    <string name="email_alert">Harap masukkan email yang valid!</string>
+    <string name="regist_success_alert">Selamat!</string>
+    <string name="regist_failed_alert">Registrasi Gagal!</string>
+    <string name="description">Deskripsi</string>
+    <string name="setting">Pengaturan</string>
+    <string name="logout">Keluar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="desc_empty_alert">Harap masukkan deskripsi!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="location">Lokasi</string>
+</resources>
